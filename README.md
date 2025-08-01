@@ -6,6 +6,8 @@ In this repository I'll document my progress in cybersecurity while using [HackT
 
 ### Starting point machines 👇
 
+#### Tier 0
+
 Successfully pawned Meow machine, flag: b40abdfe23665f766f9c61ecba8a4c19
 
 Successfully pawned Fawn machine, flag: 035db21c881520061c53e0536e44f815 
