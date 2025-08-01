@@ -15,3 +15,7 @@ Successfully pawned Fawn machine, flag: 035db21c881520061c53e0536e44f815
 Successfully pawned Dancing machine, flag: 5f61c10dffbc77a704d76016a22f1664
 
 Successfully pawned Redeemer machine, flag: 03e1d2b376c37ab3f5319922053953eb
+
+#### Tier 1
+
+Successfully pawned Appointment, flag: e3d0796d002a446c0e622226f42e9672
